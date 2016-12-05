@@ -27,7 +27,7 @@
 
     <groupId>org.jboss.remotingjmx</groupId>
     <artifactId>remoting-jmx</artifactId>
-    <version>2.0.2.Coriant1-SNAPSHOT</version>
+    <version>2.0.2.Coriant1</version>
 
     <parent>
         <groupId>org.jboss</groupId>
@@ -217,7 +217,8 @@
         <connection>scm:git:https://github.com/vveloso/remoting-jmx.git</connection>
         <developerConnection>scm:git:https://github.com/vveloso/remoting-jmx.git</developerConnection>
         <url>https://github.com/vveloso/remoting-jmx</url>
-    </scm>
+      <tag>2.0.2.Coriant1</tag>
+  </scm>
 	
 	<distributionManagement>
 		<repository>
